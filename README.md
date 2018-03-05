@@ -10,3 +10,8 @@ Added keyboard input:
 
 Added green bullet
 *Shoot: Space bar
+
+v0.5
+Added bullet array
+v0.55
+Added diagonal movement
