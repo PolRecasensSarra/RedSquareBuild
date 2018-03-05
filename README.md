@@ -13,5 +13,6 @@ Added green bullet
 
 v0.5
 Added bullet array
+
 v0.55
 Added diagonal movement
